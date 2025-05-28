@@ -1,3 +1,21 @@
+Metadata-Version: 2.1
+Name: zengrad-pytorch
+Version: 1.0.1
+Summary: ZenGrad: A gradient descent method focused on stability, smooth updates, and efficient, adaptive learning.
+Home-page: https://github.com/Rishichaitanya-Nalluri/zengrad-pytorch
+Author: Rishi Chaitanya
+Author-email: rishichaitanya888@gmail.com
+License: Apache-2.0
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: torch>=1.6.0
+
 
 # ZenGrad: Gradient Descent Optimizer 
 
