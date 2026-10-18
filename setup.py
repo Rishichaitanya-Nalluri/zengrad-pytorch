@@ -3,14 +3,14 @@ from setuptools import setup, find_packages
 
 setup(
     name='zengrad-pytorch',  
-    version='0.1.0',
+    version='1.0.0',
     description='ZenGrad Optimizer - Pytorch',
     long_description=open('README.md', encoding='utf-8').read(),
     long_description_content_type='text/markdown',
     author= 'Rishi Chaitanya',
     author_email='rishichaitanya888@gmail.com',
     packages=find_packages(),
-    url='https://github.com/Rishichaitanya-Nalluri/zengrad_pytorch',
+    url='https://github.com/Rishichaitanya-Nalluri/zengrad-pytorch/blob/main/LICENSE',
     license="Apache-2.0",
     install_requires=[ 
         "torch>=1.6.0"
